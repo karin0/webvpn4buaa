@@ -1,22 +1,13 @@
 {
   "files": {
-    "main.css": "/webvpn4dut/static/css/main.169eb6eb.chunk.css",
-    "main.js": "/webvpn4dut/static/js/main.51968afe.chunk.js",
-    "main.js.map": "/webvpn4dut/static/js/main.51968afe.chunk.js.map",
-    "runtime-main.js": "/webvpn4dut/static/js/runtime-main.2bb719aa.js",
-    "runtime-main.js.map": "/webvpn4dut/static/js/runtime-main.2bb719aa.js.map",
-    "static/js/2.e74c06c3.chunk.js": "/webvpn4dut/static/js/2.e74c06c3.chunk.js",
-    "static/js/2.e74c06c3.chunk.js.map": "/webvpn4dut/static/js/2.e74c06c3.chunk.js.map",
-    "index.html": "/webvpn4dut/index.html",
-    "precache-manifest.1fde9fec464155456b0292dcd781810f.js": "/webvpn4dut/precache-manifest.1fde9fec464155456b0292dcd781810f.js",
-    "service-worker.js": "/webvpn4dut/service-worker.js",
-    "static/css/main.169eb6eb.chunk.css.map": "/webvpn4dut/static/css/main.169eb6eb.chunk.css.map",
-    "static/js/2.e74c06c3.chunk.js.LICENSE": "/webvpn4dut/static/js/2.e74c06c3.chunk.js.LICENSE"
+    "main.css": "/webvpn4buaa/static/css/main.302767c0.css",
+    "main.js": "/webvpn4buaa/static/js/main.fe71c4ea.js",
+    "index.html": "/webvpn4buaa/index.html",
+    "main.302767c0.css.map": "/webvpn4buaa/static/css/main.302767c0.css.map",
+    "main.fe71c4ea.js.map": "/webvpn4buaa/static/js/main.fe71c4ea.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.2bb719aa.js",
-    "static/js/2.e74c06c3.chunk.js",
-    "static/css/main.169eb6eb.chunk.css",
-    "static/js/main.51968afe.chunk.js"
+    "static/css/main.302767c0.css",
+    "static/js/main.fe71c4ea.js"
   ]
 }
