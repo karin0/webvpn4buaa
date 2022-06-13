@@ -2,7 +2,7 @@
   "name": "webvpn4dut",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://cjhahaha.github.io/webvpn4dut",
+  "homepage": "https://karin0.github.io/webvpn4buaa",
   "dependencies": {
     "@material-ui/core": "^4.9.0",
     "@material-ui/icons": "^4.5.1",
@@ -11,10 +11,10 @@
     "@types/react": "^16.9.19",
     "@types/react-dom": "^16.9.5",
     "copy-to-clipboard": "^3.2.0",
-    "node-sass": "^4.13.1",
+    "sass": "^1.52.3",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
-    "react-scripts": "3.3.0",
+    "react-scripts": "^5.0.1",
     "typescript": "^3.7.5"
   },
   "scripts": {
