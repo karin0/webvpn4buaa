@@ -32,7 +32,7 @@ const App: FC = () => {
     return (
         <Paper className='App'>
             <Typography variant='h3' style={{ margin: '-20vh 0 30px 0' }}>
-                WebVpn for DUT
+                WebVpn for BUAA
             </Typography>
 
             <div className='inline-wrapper'>
@@ -48,8 +48,9 @@ const App: FC = () => {
                 </Select>
 
                 <TextField
-                    label={!!url ? '网址' : '网址，如 teach.dlut.edu.cn'}
+                    label={!!url ? '网址' : '网址，如 bykc.buaa.edu.cn'}
                     style={{ width: 'calc(80vw - 90px)', marginLeft: 12 }}
+                    value={url}
                     onChange={(event: ChangeEvent<{ value: unknown }>) => {
                         setUrl(event.target.value as string);
                     }}
@@ -92,7 +93,7 @@ const App: FC = () => {
                     <LiveHelpIcon />
                 </Fab>
 
-                <Fab onClick={() => window.location.href = 'https://github.com/cjhahaha/webvpn4DUT'}>
+                <Fab onClick={() => window.location.href = 'https://github.com/karin0/webvpn4buaa'}>
                     <GitHubIcon />
                 </Fab>
             </div>
